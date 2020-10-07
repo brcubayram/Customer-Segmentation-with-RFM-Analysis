@@ -1,12 +1,12 @@
 # Customer Segmentation with RFM Analysis
  
-## What is the Customer Segmentation?
+## What is Customer Segmentation?
 
 Customer segmentation, which has an important place in marketing and sales strategies, means getting to know our customers well and dividing them into segments and placing them in a group. This segmentation process ensures a clear, targeted and efficient marketing success.
 
 The most critical issue for us when it comes to segmentation is clean data. When you have clean data, it's time to analyze them. There is a great analysis to help us: RFM Analysis.
 
-## What is the RFM Analysis?
+## What is RFM Analysis?
 
 It is a popular type of analysis used to identify the target customer audience by segmenting customers and reviewing past purchasing habits.
 
