@@ -1,4 +1,4 @@
-# Customer-Segmentation-with-RFM-Analysis
+# Customer Segmentation with RFM Analysis
  
 ## What is the Customer Segmentation?
 
